@@ -1,17 +1,17 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Bookish",
+    "title": "Venmurasu Analysis",
     "description": "",
-    "home_page_url": "https://garunachalam.github.io/bookish",
-    "feed_url": "https://garunachalam.github.io/bookish/feed.json",
+    "home_page_url": "https://garunachalam.github.io/jm-vm-analysis",
+    "feed_url": "https://garunachalam.github.io/jm-vm-analysis/feed.json",
     "user_comment": "",
     "author": {
         "name": "Ganesan Arunachalam"
     },
     "items": [
         {
-            "id": "https://garunachalam.github.io/bookish/about-ittllttaipprr.html",
-            "url": "https://garunachalam.github.io/bookish/about-ittllttaipprr.html",
+            "id": "https://garunachalam.github.io/jm-vm-analysis/about-ittllttaipprr.html",
+            "url": "https://garunachalam.github.io/jm-vm-analysis/about-ittllttaipprr.html",
             "title": "About / இத்தளத்தைப்பற்றி",
             "summary": "விரைவில்...",
             "content_html": "விரைவில்...",
@@ -24,8 +24,8 @@
             "date_modified": "2020-04-24T15:12:54-07:00"
         },
         {
-            "id": "https://garunachalam.github.io/bookish/venmurasu-word-analysis-vennmurcu-vaarttai-alcl.html",
-            "url": "https://garunachalam.github.io/bookish/venmurasu-word-analysis-vennmurcu-vaarttai-alcl.html",
+            "id": "https://garunachalam.github.io/jm-vm-analysis/venmurasu-word-analysis-vennmurcu-vaarttai-alcl.html",
+            "url": "https://garunachalam.github.io/jm-vm-analysis/venmurasu-word-analysis-vennmurcu-vaarttai-alcl.html",
             "title": "Venmurasu Word Analysis / வெண்முரசு வார்த்தை அலசல்",
             "summary": "TODO",
             "content_html": "TODO",
@@ -38,8 +38,8 @@
             "date_modified": "2020-04-24T15:10:14-07:00"
         },
         {
-            "id": "https://garunachalam.github.io/bookish/kuru-vnnkkm.html",
-            "url": "https://garunachalam.github.io/bookish/kuru-vnnkkm.html",
+            "id": "https://garunachalam.github.io/jm-vm-analysis/kuru-vnnkkm.html",
+            "url": "https://garunachalam.github.io/jm-vm-analysis/kuru-vnnkkm.html",
             "title": "குரு வணக்கம்",
             "summary": "நமக்கு கற்பிப்பவர் யாரக இருந்தாலும் அவர் நமக்கு குருவே. அந்த வகையில் ஜெயமோகன் என்னுடய குரு. அவரிடம் இருந்து கற்றுக்கொண்டவை / கற்றுக்கொண்டிருப்பவை ஏரளம். அவருக்கு என் வணக்கம்.",
             "content_html": "<p>நமக்கு கற்பிப்பவர் யாரக இருந்தாலும் அவர் நமக்கு குருவே.  அந்த வகையில் ஜெயமோகன் என்னுடய குரு. அவரிடம் இருந்து கற்றுக்கொண்டவை /  கற்றுக்கொண்டிருப்பவை ஏரளம்.</p>\n<p><strong>அவருக்கு என் வணக்கம்.</strong></p>",

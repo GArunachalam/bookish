@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Bookish</title>
-    <link href="https://garunachalam.github.io/bookish/feed.xml" rel="self" />
-    <link href="https://garunachalam.github.io/bookish" />
-    <updated>2020-04-24T15:19:38-07:00</updated>
+    <title>Venmurasu Analysis</title>
+    <link href="https://garunachalam.github.io/jm-vm-analysis/feed.xml" rel="self" />
+    <link href="https://garunachalam.github.io/jm-vm-analysis" />
+    <updated>2020-04-24T15:37:47-07:00</updated>
     <author>
         <name>Ganesan Arunachalam</name>
     </author>
-    <id>https://garunachalam.github.io/bookish</id>
+    <id>https://garunachalam.github.io/jm-vm-analysis</id>
 
     <entry>
         <title>About / இத்தளத்தைப்பற்றி</title>
         <author>
             <name>Ganesan Arunachalam</name>
         </author>
-        <link href="https://garunachalam.github.io/bookish/about-ittllttaipprr.html"/>
-        <id>https://garunachalam.github.io/bookish/about-ittllttaipprr.html</id>
+        <link href="https://garunachalam.github.io/jm-vm-analysis/about-ittllttaipprr.html"/>
+        <id>https://garunachalam.github.io/jm-vm-analysis/about-ittllttaipprr.html</id>
 
         <updated>2020-04-24T15:12:54-07:00</updated>
             <summary>
@@ -34,8 +34,8 @@
         <author>
             <name>Ganesan Arunachalam</name>
         </author>
-        <link href="https://garunachalam.github.io/bookish/venmurasu-word-analysis-vennmurcu-vaarttai-alcl.html"/>
-        <id>https://garunachalam.github.io/bookish/venmurasu-word-analysis-vennmurcu-vaarttai-alcl.html</id>
+        <link href="https://garunachalam.github.io/jm-vm-analysis/venmurasu-word-analysis-vennmurcu-vaarttai-alcl.html"/>
+        <id>https://garunachalam.github.io/jm-vm-analysis/venmurasu-word-analysis-vennmurcu-vaarttai-alcl.html</id>
 
         <updated>2020-04-24T15:10:14-07:00</updated>
             <summary>
@@ -54,8 +54,8 @@
         <author>
             <name>Ganesan Arunachalam</name>
         </author>
-        <link href="https://garunachalam.github.io/bookish/kuru-vnnkkm.html"/>
-        <id>https://garunachalam.github.io/bookish/kuru-vnnkkm.html</id>
+        <link href="https://garunachalam.github.io/jm-vm-analysis/kuru-vnnkkm.html"/>
+        <id>https://garunachalam.github.io/jm-vm-analysis/kuru-vnnkkm.html</id>
 
         <updated>2020-04-24T15:05:39-07:00</updated>
             <summary>
