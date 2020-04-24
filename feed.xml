@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Bookish</title>
+    <link href="https://garunachalam.github.io/bookish/feed.xml" rel="self" />
+    <link href="https://garunachalam.github.io/bookish" />
+    <updated>2020-04-24T15:19:38-07:00</updated>
+    <author>
+        <name>Ganesan Arunachalam</name>
+    </author>
+    <id>https://garunachalam.github.io/bookish</id>
+
+    <entry>
+        <title>About / இத்தளத்தைப்பற்றி</title>
+        <author>
+            <name>Ganesan Arunachalam</name>
+        </author>
+        <link href="https://garunachalam.github.io/bookish/about-ittllttaipprr.html"/>
+        <id>https://garunachalam.github.io/bookish/about-ittllttaipprr.html</id>
+
+        <updated>2020-04-24T15:12:54-07:00</updated>
+            <summary>
+                <![CDATA[
+                    விரைவில்...
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                விரைவில்...
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Venmurasu Word Analysis / வெண்முரசு வார்த்தை அலசல்</title>
+        <author>
+            <name>Ganesan Arunachalam</name>
+        </author>
+        <link href="https://garunachalam.github.io/bookish/venmurasu-word-analysis-vennmurcu-vaarttai-alcl.html"/>
+        <id>https://garunachalam.github.io/bookish/venmurasu-word-analysis-vennmurcu-vaarttai-alcl.html</id>
+
+        <updated>2020-04-24T15:10:14-07:00</updated>
+            <summary>
+                <![CDATA[
+                    TODO
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                TODO
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>குரு வணக்கம்</title>
+        <author>
+            <name>Ganesan Arunachalam</name>
+        </author>
+        <link href="https://garunachalam.github.io/bookish/kuru-vnnkkm.html"/>
+        <id>https://garunachalam.github.io/bookish/kuru-vnnkkm.html</id>
+
+        <updated>2020-04-24T15:05:39-07:00</updated>
+            <summary>
+                <![CDATA[
+                    நமக்கு கற்பிப்பவர் யாரக இருந்தாலும் அவர் நமக்கு குருவே. அந்த வகையில் ஜெயமோகன் என்னுடய குரு. அவரிடம் இருந்து கற்றுக்கொண்டவை / கற்றுக்கொண்டிருப்பவை ஏரளம். அவருக்கு என் வணக்கம்.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>நமக்கு கற்பிப்பவர் யாரக இருந்தாலும் அவர் நமக்கு குருவே.  அந்த வகையில் ஜெயமோகன் என்னுடய குரு. அவரிடம் இருந்து கற்றுக்கொண்டவை /  கற்றுக்கொண்டிருப்பவை ஏரளம்.</p>
+<p><strong>அவருக்கு என் வணக்கம்.</strong></p>
+            ]]>
+        </content>
+    </entry>
+</feed>
